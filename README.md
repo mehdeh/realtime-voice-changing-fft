@@ -1,6 +1,6 @@
-## Voice Changing (Delphi/.NET)
+## Real-time Voice Changing
 
-Real-time voice changing demo written in **Delphi for .NET**. It records audio from the microphone, processes it in short windows using **FFT** (Fast Fourier Transform) with a Hanning window, applies simple spectral transformations, and plays the processed audio back in near real time. The application also provides basic visualization of the waveform / spectral data.
+Real-time voice changing demo written in **Delphi for .NET** around **2007**. It records audio from the microphone, processes it in short windows using **FFT** (Fast Fourier Transform) with a Hanning window, applies simple spectral transformations, and plays the processed audio back in near real time. The application also provides basic visualization of the waveform / spectral data.
 
 ---
 
